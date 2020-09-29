@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">CityGuide</string>
+
+    <string name="app_AdMob_ID" translatable="false">ca-app-pub-2481550376243942~9174826210</string>
+    <string name="Interstitial_Ad_ID" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="nav_title" translatable="false">Shatsk</string>
+    <string name="email" translatable="false">shatsk@gmail.com</string>
+    <string name="call" translatable="false">Call</string>
+    <string name="shops" translatable="false">Shops</string>
+    <string name="pharmacies" translatable="false">Pharmacies</string>
+    <string name="other" translatable="false">Other</string>
+    <string name="hotels" translatable="false">Hotels</string>
+    <string name="cafes_restaurants" translatable="false">Cafes,restaurants</string>
+    <string name="social_actions" translatable="false">Social actions</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="rate" translatable="false">Rate</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417126268459",
+    "firebase_url": "https://shatsklakes-b0f46.firebaseio.com",
+    "project_id": "shatsklakes-b0f46",
+    "storage_bucket": "shatsklakes-b0f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417126268459:android:fdbfc3bd9b8ef6568c746e",
+        "android_client_info": {
+          "package_name": "com.my.admin.shatsklakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417126268459-g44dvdksqsufhk7b5dmakh4klu2iseje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRdximJiOnqRSR7haTTqYSi_95Es9p6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417126268459-g44dvdksqsufhk7b5dmakh4klu2iseje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
